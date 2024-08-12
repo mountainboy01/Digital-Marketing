@@ -156,6 +156,10 @@ html{
    padding: 30px 20px;
 }
 
+.header .navbar nav ul li:last-child a{
+	display: none;
+}
+
 .header .navbar .toggle-icon{
     display: block;
 }
